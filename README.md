@@ -1,9 +1,9 @@
 # Pong
 Studentisches Projekt für Assemblerprogrammierung
 
-![pong_menu](https://user-images.githubusercontent.com/82649637/172356559-81014c90-fbbc-4649-946b-0daee54d3881.jpg)
-![pong_game](https://user-images.githubusercontent.com/82649637/172356575-f29ae380-99c3-4fb8-852b-51ab75f4964d.jpg)
-
+<a href="https://user-images.githubusercontent.com/82649637/172361290-d6f3ec6e-d027-4470-9602-84825d4a6170.jpg"><img src="https://user-images.githubusercontent.com/82649637/172361290-d6f3ec6e-d027-4470-9602-84825d4a6170.jpg" height=45% width=45% ></a> 
+<a href="https://user-images.githubusercontent.com/82649637/172361298-a4dcd42c-9f68-4ca2-9205-daa6405cc950.jpg"><img src="https://user-images.githubusercontent.com/82649637/172361298-a4dcd42c-9f68-4ca2-9205-daa6405cc950.jpg" height=45% width=45% ></a> 
+  
 ## Kurzanleitung
 
 Menü:
